@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /**
- * main - aA program that writes various computer types
- *
+ * main - A program that writes various computer types
  * Return: Always 0 (Success)
  */
 int main(void)
