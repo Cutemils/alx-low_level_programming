@@ -1,4 +1,5 @@
 #ifndef MAIN.H
+
 #define MAIN.H
 
 char *_strdup(char *str);
